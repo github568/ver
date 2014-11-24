@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.10.30.141/iosdeploy/cheshi.ipa</string>
+					<string>http://10.10.30.141/ios/cheshi/cheshi.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://10.10.30.141/iosdeploy/icon.png</string>
+					<string>http://10.10.30.141/ios/cheshi/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
